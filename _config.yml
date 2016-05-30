@@ -1,0 +1,28 @@
+name: the.itemist
+favicon: null
+layout_spectrum: 0.5214090589433908
+typography_spectrum: 0.011850775917991996
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6334454491734505
+  lightness: 0.8923930134624243
+  saturation: 0.7813563076779246
+  rhythmicContrast: 0.8337062504142523
+purpose: []
