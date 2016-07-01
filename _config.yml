@@ -1,28 +1,40 @@
-name: the.itemist
-favicon: null
-layout_spectrum: 0.5214090589433908
-typography_spectrum: 0.011850775917991996
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.5214090589433908
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.7813563076779246
+  brandStrength: 0.6334454491734505
+  rhythmicContrast: 0.8337062504142523
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.6334454491734505
   lightness: 0.8923930134624243
-  saturation: 0.7813563076779246
-  rhythmicContrast: 0.8337062504142523
 purpose: []
+favicon: null
+name: the.itemist
+typography_spectrum: 0.011850775917992
